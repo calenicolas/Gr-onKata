@@ -10,6 +10,9 @@ corregirlas. Convertite en un _cibercobani_ con un par de clicks!
 ***
 
 **Iteracion 1**
+
+_Accion_
+
 Los usuarios pueden crearse una cuenta. Para ello, es necesario solamente un mail
 y una password.
 
@@ -72,7 +75,9 @@ Los usuarios pueden opinar con audios. Los audios pueden ser corregidos pero
 unicamente mediante otro audio.
 
 _Resultados_
+
 Idem iteracion 4
+
 ***
 
 **Iteracion 5**
@@ -129,7 +134,7 @@ puede ser corregida.
 
 ***
 
-**Iteracion 6**
+**Iteracion 8**
 Estamos teniendo muchos usuarios, y la popularidad trae consigo a _los malignos_.
 Estos tipos son molestos por naturaleza, y estan creando bots que llenan de basura
 nuestra red. Para acabar con esto, se validaran los mails mediante un mail
@@ -139,7 +144,7 @@ advierte de su situacion.
 
 ***
 
-**Iteracion 7**
+**Iteracion 9**
 
 La mayoria de las opiniones provenian de bots. Cayeron las metricas de uso en una
 magnitud significativa. Para entuciasmar a los usuarios, creamos 2 mecanismos
@@ -152,5 +157,5 @@ magnitud significativa. Para entuciasmar a los usuarios, creamos 2 mecanismos
     
 ***
 
-**Iteracion 8**
+**Iteracion 10**
 Las opiniones con audios no rinden. Eliminarlas.
